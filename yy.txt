@@ -5,7 +5,3 @@ haha.
 
 reset
 
-
-test head
-
-
