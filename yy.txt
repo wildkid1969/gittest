@@ -6,3 +6,5 @@ haha.
 reset
 
 rr1
+
+chinese comment?
